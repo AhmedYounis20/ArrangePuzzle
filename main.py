@@ -23,7 +23,6 @@ space=(2,2)
 buttons=[]
 Main=None
 ########
-
 class square:
     def __init__(self,Place,x,y,number):
         self.distance=307.20000000000005
